@@ -1,5 +1,5 @@
 # maskedinput4joomshopping
-Plug-in "Maskedinput for the field Phone Joomshopping".
+Plug-in "Maskedinput for the field Phone for Joomshopping".
 
 Maskedinput Jquery Plugin allows you to easily set the input mask for the phone field
 
@@ -7,7 +7,7 @@ plugin works in the Joomshopping and Virtuemart
 
 support: beagler@beagler.ru 
 
-site: beagler.ru
+site: http://beagler.ru/joomshopping/plagin-maska-vvoda-dlya-polya-telefon-dlya-joomshopping.html
 
 Install in Joomla 2-3
 
