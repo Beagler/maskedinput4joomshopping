@@ -1,5 +1,4 @@
-# maskedinput4joomshopping
-Plug-in "Maskedinput for the field Phone for Joomshopping".
+# Plug-in "Maskedinput for the field Phone for Joomshopping".
 
 Maskedinput Jquery Plugin allows you to easily set the input mask for the phone field
 
